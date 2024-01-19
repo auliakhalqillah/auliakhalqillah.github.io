@@ -4,7 +4,7 @@ title: "Iteration and Recursive Method using Python"
 description: Understanding the difference between iteration and recursive method
 tags: Python
 ---
-----
+## Iteration and Recursive Method using Python
 ### Iteration
 Iteration means that the process of math or computing is repeated again and again until the last boundary ([Oxford Learner’s Dictionaries](https://www.oxfordlearnersdictionaries.com/definition/english/iteration?q=iteration)). In programming, the iteration process can be described as pseudocode of summation below:
 
