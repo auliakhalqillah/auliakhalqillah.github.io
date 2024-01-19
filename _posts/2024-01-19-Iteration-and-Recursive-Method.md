@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iteration and Recursive Method using Python
+title: "Iteration and Recursive Method using Python"
 description: Understanding the difference between iteration and recursive method
 tags: Python
 ---
