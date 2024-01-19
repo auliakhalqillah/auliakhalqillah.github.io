@@ -113,7 +113,7 @@ print("Recursive sum\t:",mysum)
 ```
 Program 3 is expanded from program 2 but still has the same purpose and the data has been updated to become data = [3,2,5]. By reading and understanding Program 3, maybe you can imagine how the recursion function works. So, the result of program 3 in the figure below
 
-![](https://github.com/auliakhalqillah/auliakhalqillah.github.io/blob/main/img/recursive_img_2.png)
+![recursive_result](https://github.com/auliakhalqillah/auliakhalqillah.github.io/blob/main/img/recursive_img_2.png)
 
 ### The advantages of the recursion method
 1.	Reduces the length of program,
