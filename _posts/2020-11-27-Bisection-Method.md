@@ -12,7 +12,7 @@ the bisection method is to find the root ($xr$) that is always divided in half b
 
 $xr = \frac {(xi+xf)} {2}$ eq 1.1
 
-$error = |\frac {(xr - xrold)} {xrold}|$ eq 1.2
+$error = \lvert \frac {(xr - xrold)} {xrold} \rvert$ eq 1.2
 
 ### Numerical Steps
 ```
