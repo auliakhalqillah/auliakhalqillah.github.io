@@ -6,7 +6,7 @@ tags: Numerical-Method
 ---
 ## Bisection Method - Finding the Root of a Nonlinear Equation
 <p align="center">
-	<img src="./img/Bisection2_result.png" width="500" height="400" />
+	<img src="../img/Bisection2_result.png" width="500" height="400" />
 </p>
 
 ### Introduction
