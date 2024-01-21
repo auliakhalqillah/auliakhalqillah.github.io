@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Newton's Method"
-tags: Numerical-Method
 description: Understanding the Newton's Method to find the root of a nonlinear equation
+tags: Numerical-Method
 ---
 ## Newton's Method - Finding the Root of a Nonlinear Equation
 ### Introduction
