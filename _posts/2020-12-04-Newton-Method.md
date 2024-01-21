@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Newton Method"
-description: Understanding the Bisection Method to find the root of a nonlinear equation
+description: Understanding the Newton Method to find the root of a nonlinear equation
 tags: Numerical-Method
 ---
 ## Newton's Method - Finding the Root of a Nonlinear Equation
 ### Introduction
-Newton’s method is the fastest method for finding the root. This method uses f(x) 's first derivative and initial root estimation. Therefore, this method requires an analytical process
-to determine the first derivative of $f(x)$. The root estimation ($x$) can be calculated by using Equation (1).
+Newton’s method is the fastest method for finding the root. This method uses the first derivative of $f(x)$ and initial root estimation. Therefore, this method requires an analytical process to determine the first derivative of $f(x)$. The root estimation ($xr$) can be calculated by using Equation (1).
 
 $x_r = x_{initial} - \frac {f(x_{initial})} {f'(x_{initial})}$ Equation 1
 
