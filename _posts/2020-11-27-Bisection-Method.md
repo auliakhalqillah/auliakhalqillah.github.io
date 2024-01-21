@@ -5,9 +5,7 @@ description: Understanding the Bisection Method to find the root of a nonlinear 
 tags: Numerical-Method
 ---
 ## Bisection Method - Finding the Root of a Nonlinear Equation
-<p align="center">
-	<img src="https://github.com/auliakhalqillah/auliakhalqillah.github.io/blob/main/img/Bisection2_result.png" width="400" height="300" />
-</p>
+![bisection_image](/img/Bisection2_result.png)
 ### Introduction
 A bisection method is one of the brackets methods to solve a root of equations problem numerically. This method is also called binary chopping or interval halving. The main idea of 
 the bisection method is to find the root ($xr$) that is always divided in half between two ranges, $xi$ (initial boundary) and $xf$ (final boundary) by using Equation (1.1). By analytic process, the root will be produced when the function is equal to zero, $f(x) = 0$ and at least one root will be identified from a function. However, numerically the root of the function will be produced when the function of $f(x)$ is close to 0, (not exact to 0).
