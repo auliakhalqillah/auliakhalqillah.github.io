@@ -60,6 +60,7 @@ iter    xi       	      xf       		f(xi)          f(xf)      	xrold       	xr   
 14    0.999755859       1.00000000       5.96046448E-08   0.00000000      0.999755859      0.999877930       0.00000000       1.22100129E-04           2
 15    0.999755859       1.00000000       5.96046448E-08   0.00000000      0.999877930      0.999877930       0.00000000       0.00000000               3
 ```
+
 By using the bisection method after 15 times iterations of the process, the root of f(x) = x2-2+1 is found around 0.999877930. It is not exactly equal to 1 but close to 1 with a range of error 0.000244 – 0. When the root of 0.999877930 is substituted to the f(x), the real result is 1.4901e-08, but the program result above the f(x) = 0. This is because the process of (0.9998779302)-(2x0.999877930) = -0.999999985098915 and in Fortran95, it will be rounded to -1. So, in Fortran 95 the function of f(0.999877930) = (0.9998779302)-(2x0.999877930)+1 = -1+1= 0. The program code of this method has been implemented in Fortran 95 and can be downloaded [here](https://github.com/auliakhalqillah/Bisection-Method)
 
 ### Reference
