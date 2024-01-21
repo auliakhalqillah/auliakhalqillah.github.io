@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setup File"
+title: "How to Write Setup File for Python Module?"
 description: How to setup file for Python
 tags: Python
 ---
