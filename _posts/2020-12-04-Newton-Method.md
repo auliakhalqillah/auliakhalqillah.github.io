@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Newton's Method"
-description: Understanding the Newton's Method to find the root of a nonlinear equation
+title: "Newton Method"
+description: Understanding the Bisection Method to find the root of a nonlinear equation
 tags: Numerical-Method
 ---
 ## Newton's Method - Finding the Root of a Nonlinear Equation
@@ -11,7 +11,7 @@ to determine the first derivative of $f(x)$. The root estimation ($x$) can be ca
 
 $x_r = x_{initial} - \frac {f(x_{initial})} {f'(x_{initial})}$ Equation 1
 
-$error = |\frac {{x_r} - x_{rold}} {x_{rold}}|$  Equation 2
+$error = \lvert \frac {{x_r} - x_{rold}} {x_{rold}} \rvert$  Equation 2
 
 By using this method, the root estimation can be convergence or not convergence. If the root estimation is convergence that means it is close to the expected root of $f(x)$.
 Otherwise, if the root estimation is not convergence that means it is far to the expected root of $f(x)$, so you have to input another initial root estimation again.
