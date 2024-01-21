@@ -42,9 +42,9 @@ h. The process will stop when error < limit.
 ```
 
 ### Example
-Given a function of $f(x) = x^2-2x+1$. By using bisection method to solve this equation, set the initial boundary $xi = -3$, final boundary $xf = 3$, limit $range = 1e12$, and limit of $error = 1e-10$. 
+Given a function of $f(x) = x^2-2x+1$. By using the bisection method to solve this equation, set the initial boundary $xi = -3$, final boundary $xf = 3$, limit $range = 1e12$, and limit of $error = 1e-10$. 
 
-__Answer__
+__Output__
 ```
 iter    xi       	      xf       		f(xi)          f(xf)      	xrold       	xr           f(xr)		error          conditioin
 1    -1.000000000       1.00000000       4.00000000       0.00000000      -1.00000000       0.00000000       1.00000000       1.00000000               2
