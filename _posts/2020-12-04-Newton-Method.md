@@ -10,7 +10,7 @@ Newton’s method is the fastest method for finding the root. This method uses t
 
 $x_r = x_{initial} - \frac {f(x_{initial})} {f'(x_{initial})}$ Equation 1
 
-$error = \lvert \frac {{x_r}-x_{rold}} {x_{rold}} \rvert$  Equation 2
+$error = \lvert \frac {x_r-x_{rold}} {x_{rold}} \rvert$  Equation 2
 
 By using this method, the root estimation can be convergence or not convergence. If the root estimation is convergence that means it is close to the expected root of $f(x)$.
 Otherwise, if the root estimation is not convergence that means it is far to the expected root of $f(x)$, so you have to input another initial root estimation again.
