@@ -50,7 +50,7 @@ Recursion is the process of repeating the function itself inside the function it
 
 You can imagine that in front of you, there is a big door in your storage room. You open that door and you don’t find that bag. Then, you find another door inside the first door, which is the second door. You open the second door and you don’t find that bag again. Then, you find another door again inside the second door. You open the third door and you don’t find that bag again and again. Then, you find another door again and again inside the third door. You open the fourth door and finally, you find the bag and you can take out the bag. The illustration is shown in the figure below
 
-![recursive_img](https://github.com/auliakhalqillah/auliakhalqillah.github.io/blob/main/img/recursive_img.png)
+![recursive_img](/img/recursive_img.png)
 
 This process will repeat again and again until the last condition is fulfilled. The last condition of the illustration above is the huge bag in the fourth door. In the fourth door, you take out the bag and put some things inside the bag from each door, from the fourth door to the first door. Finally, you get the all things that you want.
 
