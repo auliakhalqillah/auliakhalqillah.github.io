@@ -39,4 +39,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Numerical-Method Seismic-Hazard Python GMT
+      tags: Numerical-Method Seismic-Hazard Python GMT QGIS
