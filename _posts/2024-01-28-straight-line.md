@@ -15,7 +15,7 @@ depicted in Figure 1.
 ![Sample Point](/img/1%20Sample%20Point.png)
 Figure 1. Sample Point
 
-![Km2degree](img/2%20Km%20to%20degree.png)
+![Km2degree](/img/2%20Km%20to%20degree.png)
 Figure 2. Converting the Km to Degree for fault length
 
 The fault length must be converted to degrees unit. We assume the 1 degree is equal to 111.1 Km. So, the field of length_km of 20 Km is divided by 111.1 Km/degree. We can calculate
