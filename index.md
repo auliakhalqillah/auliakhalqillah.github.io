@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to my blog. In this blog, I will share my experience and knowledge regarding earthquake science and programming or computation.
