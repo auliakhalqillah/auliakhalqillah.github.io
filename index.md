@@ -1,1 +1,1 @@
-Welcome to my blog. In this blog, I will share my experience and knowledge regarding earthquake science and programming or computation.
+Welcome to my blog. I will share my opinion regarding earthquake science and programming or computation based on my experience.
