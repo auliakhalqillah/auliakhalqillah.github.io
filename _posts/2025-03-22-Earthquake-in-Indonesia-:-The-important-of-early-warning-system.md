@@ -1,5 +1,5 @@
 ---
-tags: Seismic Hazard
+tags: Seismic-Hazard
 ---
 
  Indonesia is a country that has several potential natural hazards such as earthquakes, tsunamis, landslides, volcano eruptions, floods, extreme weather, forest fires, abrasion, and drought. Especially an earthquake, the sudden ground movement caused by interaction between two tectonic plate movements beneath the earth. Indonesia is surrounded by several main plates, the Eurasian Plate, Indian Plate, Australian Plate, and Pacific Plate. These plates move relative to each other about 10 mm/year to 100 mm/year. The megathrust or subduction zone and fault are the implications of the tectonic activity. A lot of earthquakes will be found in these zones. Another implication is the formation of volcanic mountains from the convergent and divergent processes of the plates. According to the National Seismic Hazard Map of Indonesia (2017), Indonesia has 59 active faults and 13 megathrust zones. The active faults extend from Sumatra to Papua.
