@@ -6,6 +6,4 @@ all related to earthquake science. I study the earthquake from physics and stati
 
 # More Information
 
-If you have any inquiry, please email me to auliakhalqillah.mail@gmail.com
-
-You may also find the technical notes regarding programming (Python) and seismic hazard on [notes.auliakhalqillah.com](notes.auliakhalqillah.com)
+You can find the technical notes regarding programming (Python) and seismic hazard on [notes.auliakhalqillah.com](notes.auliakhalqillah.com)
