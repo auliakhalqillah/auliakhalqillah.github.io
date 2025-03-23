@@ -1,4 +1,6 @@
-# Equation
+---
+usemathjax: true
+---
 
 $$
 \begin{align*}
