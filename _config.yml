@@ -25,6 +25,7 @@ rss: rss
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+  mathjax: true
   syntax_highlighter_opts:
     disable: true
     
