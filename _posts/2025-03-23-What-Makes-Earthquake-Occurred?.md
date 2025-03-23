@@ -1,4 +1,8 @@
-﻿An earthquake is natural phenomenon that the ground is shaking suddenly. The ground shaking of an earthquake is caused by a collision or friction between two tectonic plates or planes. In this world, there are a lot of tectonic plates that move to each other with relative velocity rate ([1](http://www.geology.wisc.edu/~chuck/MORVEL/)). The asthenosphere is responsible to the movement of plate because the material composition is more fluid than lithosphere.
+---
+tags: Seismic-Hazard
+---
+
+An earthquake is natural phenomenon that the ground is shaking suddenly. The ground shaking of an earthquake is caused by a collision or friction between two tectonic plates or planes. In this world, there are a lot of tectonic plates that move to each other with relative velocity rate ([1](http://www.geology.wisc.edu/~chuck/MORVEL/)). The asthenosphere is responsible to the movement of plate because the material composition is more fluid than lithosphere.
 
 ![tectonic_plate](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/eq-ed-plates.gif?itok=xs3iX4js)
 
