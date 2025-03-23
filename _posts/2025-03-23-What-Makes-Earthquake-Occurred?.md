@@ -9,4 +9,5 @@ A high density plate will hit a low density plate within certain time period. In
 The earthquake energy generates a vibration to any direction from subsurface to surface. This vibration is recorded by using three components seismometer. The vibration is then called as earthquake waveform. By using the waveform data, the earthquake location, magnitude, depth, and mechanism can be derived.
 
 **Note**
-_The image illustrations are public domain from USGS_~~strikethrough text~~
+
+_The image illustrations are public domain from USGS_
