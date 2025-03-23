@@ -22,15 +22,15 @@ theme: "minima"
 
 rss: rss
 
+markdown: kramdown
 kramdown:
-  math_engine: katex
+  math_engine: mathjax
   syntax_highlighter_opts:
     disable: true
     
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-katex
 
 titles_from_headings:
   strip_title: true
