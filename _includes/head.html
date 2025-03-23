@@ -30,15 +30,18 @@
   <script type="text/javascript" src="/js/highlightjs/languages/powershell.min.js"></script>
   <script type="text/javascript" src="/js/highlightjs/languages/tsql.min.js"></script>
 
-  <!--  KaTex  -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css">
-   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js"></script>
-   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js"></script>
-   <script>
-       document.addEventListener("DOMContentLoaded", function() {
-           renderMathInElement(document.body);
-       });
-   </script>
+  <!-- Changing MathJax to KaTex -->
+  <script>
+    $("script[type='math/tex']").replaceWith(function() {
+        var tex = $(this).text();
+        return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: false});
+    });
+  
+    $("script[type='math/tex; mode=display']").replaceWith(function() {
+        var tex = $(this).html();
+        return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+    });
+  </script>
 
   <script type="text/javascript"> hljs.highlightAll(); </script>
   <!-- end highlight.js support -->
