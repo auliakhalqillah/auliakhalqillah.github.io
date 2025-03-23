@@ -7,9 +7,9 @@ As I mentioned above, the waves are a function of position (x) and time (t) or m
 
 Since the waves are moving from point to another point during a range of time, we can use the second Newton’s Law, where a particle of a wave as a mass (m) of the object moves by a certain acceleration (a) which is caused by external force (F). The Newton’s Second Law can be written as
 
-$F = m a$
+$$ F = m a $$
 
-In the example of string, the external forces are represented as tensions $T$. There are two tensions work in this process, $T_1$ is the initial tension at position $x$ and $T_2$ is the tension that has changed the position as long as $x$, and it turns the final position at $x + \Delta x$. There is an angle $\theta$ formed which is relative to tension direction and horizontal direction, we see this as a cartesian direction. So, the tensions are observed into two components, x and y. We first must extract the tensions which work for each direction.
+In the example of string, the external forces are represented as tensions $$ T $$. There are two tensions work in this process, $T_1$ is the initial tension at position $x$ and $T_2$ is the tension that has changed the position as long as $x$, and it turns the final position at $x + \Delta x$. There is an angle $\theta$ formed which is relative to tension direction and horizontal direction, we see this as a cartesian direction. So, the tensions are observed into two components, x and y. We first must extract the tensions which work for each direction.
 
 ## Tension in x-component
 
