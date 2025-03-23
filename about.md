@@ -6,7 +6,7 @@ all related to earthquake science. I study the earthquake from physics and stati
 
 # Software or Open Source Code
 
-- [SVIM - Seismic Vulmnerability Index of Microtremor](https://github.com/auliakhalqillah/SVIM) : The tools to conduct microtremor data processing by implementing Horizontal to Vertical Spectral Ratio (HVSR) method. This app will calculate a seismic vulnerability index ($K_g$) and visualize an initial spatial map directly. This was built using MATLAB.
+- [SVIM - Seismic Vulmnerability Index of Microtremor](https://github.com/auliakhalqillah/SVIM) : The tools to conduct microtremor data processing by implementing Horizontal to Vertical Spectral Ratio (HVSR) method. This app will calculate a seismic vulnerability index ($$ K_g $$) and visualize an initial spatial map directly. This was built using MATLAB.
 - [hvcheck](https://github.com/auliakhalqillah/hvcheck) : The code to evaluate the reliable and clear of HVSR's peak from the Geopsy output. This was built using Python
 
 # More Information
