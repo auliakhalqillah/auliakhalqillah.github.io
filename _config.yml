@@ -22,9 +22,8 @@ theme: "minima"
 
 rss: rss
 
-markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: katex
   syntax_highlighter_opts:
     disable: true
     
