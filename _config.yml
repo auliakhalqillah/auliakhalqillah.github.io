@@ -42,4 +42,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Seismic-Hazard, Other
+      tags: Seismic-Hazard, Programming, Other
