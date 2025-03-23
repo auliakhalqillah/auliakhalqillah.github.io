@@ -1,4 +1,3 @@
-﻿# Derivation of Wave Equation
 ---
 tags: Seismic-Hazard
 ---
