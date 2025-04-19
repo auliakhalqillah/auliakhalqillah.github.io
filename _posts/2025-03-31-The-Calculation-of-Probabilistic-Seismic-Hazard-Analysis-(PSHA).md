@@ -64,7 +64,9 @@ The Equation 6a above can be written in discrete form as shown in the Equation 6
 
 $$ \lambda (IM > y) = \Sigma_{i=1}^{n_s} \lambda (M_i > m_{min})  \Sigma_{j=1}^{n_m} \Sigma_{k=1}^{n_r} P[IM \ge y | m_j, r_k] P(M_i = m_j) P(R_i = r_k) $$
 
-The $$ P[IM \ge y | m, r] $$ is the probability of the $$ IM $$ will exceeds a particular value $$ y $$ for given magnitude $$ m $$ and distance $$ r $$. The $$ IM $$ can be PGA or SA at any period and $$ y $$ is the ground motion value. This is calculated by using Equation 7 below
+The $$ P[IM \ge y | m, r] $$ is the probability of the $$ IM $$ will exceeds a particular value $$ y $$ for given magnitude $$ m $$ and distance $$ r $$.
+
+The $$ IM $$ can be PGA or SA at any period and $$ y $$ is the ground motion value. This is calculated by using Equation 7 below
 
 $$ P[IM \ge y | m, r] = 1 - \phi (\frac {\ln y - \overline {\ln IM}} {\sigma_{\ln IM}}) $$
 
