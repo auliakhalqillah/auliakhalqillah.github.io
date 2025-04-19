@@ -241,3 +241,9 @@ The above program will show the hazard curve as below
 
 ![hc](/imgs/hc.png)
 
+## Reference
+- [Baker, J. W., Bradley, B. A., and Stafford, P. J. (2021). Seismic Hazard and Risk Analysis. Cambridge University Press, Cambridge, England.](https://www.cambridge.org/core/books/seismic-hazard-and-risk-analysis/177B4BA01FC2600AA53A22B27598A06C)
+- [Baker, J. W., Bradley, B. A., and Stafford, P. J. (2008). An Introduction to Probabilistic Seismic Hazrad Analysis](https://www.jackwbaker.com/Publications/Baker_(2008)_Intro_to_PSHA_v1_3.pdf)
+- [C. Allin Cornell; Engineering seismic risk analysis. Bulletin of the Seismological Society of America 1968;; 58 (5): 1583–1606. doi: https://doi.org/10.1785/BSSA0580051583](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/58/5/1583/116673/Engineering-seismic-risk-analysis?redirectedFrom=fulltext)
+- [McGuire. (2004) Seismic Hazard and Risk Analysis. Monograoh Series. Earthquake Engineering Research Institute](https://ez-frisk.org/Database/Robin%20K.%20McGuire%20-%20Seismic%20Hazard%20and%20Risk%20Analysis-Earthquake%20Engineering%20Research%20Institute%20%282004%29.pdf)
+
