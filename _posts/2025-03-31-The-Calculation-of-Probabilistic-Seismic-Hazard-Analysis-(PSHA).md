@@ -1,6 +1,6 @@
 ﻿Seismic hazard analysis is a method used to assess the potential ground shaking caused by earthquakes, considering various seismic source models, magnitudes, distances, and depths. This assessment relies on ground motion prediction equations (GMPEs) to estimate shaking intensity. One widely used approach is Probabilistic Seismic Hazard Analysis (PSHA), which evaluates the likelihood of different levels of ground shaking occurring over a given time period.
 
-The primary objective of PSHA is to estimate the annual frequencies of exceedence for various intensity measures ($IM$), such as Peak Ground Acceleration (PGA) and Spectral Acceleration (SA (T)). The result of this analysis is typically represented as a hazard curve, which shows the annual frequency of exceeding different levels of ground motion intensity. This approach helps in understanding seismic risk and is essential for earthquake-resistant design, land-use planning, and risk mitigation strategies. This method was introduced by [Cornell, 1968](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/58/5/1583/116673/Engineering-seismic-risk-analysis?redirectedFrom=fulltext). Then, [McGuire, 2004](https://faeng.ufms.br/files/2019/06/PGA_Seismic-Hazard-And-Risk-Analysis_McGuire_2004.pdf) has developed more comprehensive of this method.
+The primary objective of PSHA is to estimate the annual frequencies of exceedence for various intensity measures (IM), such as Peak Ground Acceleration (PGA) and Spectral Acceleration (SA (T)). The result of this analysis is typically represented as a hazard curve, which shows the annual frequency of exceeding different levels of ground motion intensity. This approach helps in understanding seismic risk and is essential for earthquake-resistant design, land-use planning, and risk mitigation strategies. This method was introduced by [Cornell, 1968](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/58/5/1583/116673/Engineering-seismic-risk-analysis?redirectedFrom=fulltext). Then, [McGuire, 2004](https://faeng.ufms.br/files/2019/06/PGA_Seismic-Hazard-And-Risk-Analysis_McGuire_2004.pdf) has developed more comprehensive of this method.
 
 The PSHA has four steps to be analysed:
 1. Identification and characterization of seismic source models
@@ -36,7 +36,7 @@ where $$ \bar M $$ is the magnitude average and for the estimation variance of b
 
 $$ b_{std} = 2.30 b^2 \sqrt \frac {\Sigma_{i=1}^N (M_i - \bar M)^2} {N(N-1)} $$
 
-where $N$$ is the number of earthquakes. The a-value is simple estimated by using Equation 4
+where $$ N $$ is the number of earthquakes. The a-value is simple estimated by using Equation 4
 
 $$ a = log_{10} N + bM $$
 
