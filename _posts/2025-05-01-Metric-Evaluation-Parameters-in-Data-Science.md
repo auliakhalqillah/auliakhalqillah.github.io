@@ -27,7 +27,9 @@ In data science, we are dealing with a lot of data. The data is processed, model
 - This metric takes the basic of MAE's formula. It is enchanced to the precentage error calculation respect to the actual data ($$ y_i $$).
 - It tells us how much the percentage error of the predicted data respect to the actual data.
 - The lower percentage error indicates the good result.
-- This metric can be calculated by using $$ MAE = \frac{100 \%}{n} \sum_{i=1}^{n} |\frac{y_i - \hat{y}_i} {y_i}| $$
+- This metric can be calculated by using
+
+  $$ MAE = \frac{100 \%}{n} \sum_{i=1}^{n} |\frac{y_i - \hat{y}_i} {y_i}| $$
 
 ## Pearson Correlation Coefficient
 ![pcc](https://upload.wikimedia.org/wikipedia/commons/3/34/Correlation_coefficient.png)
