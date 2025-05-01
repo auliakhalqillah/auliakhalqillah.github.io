@@ -19,7 +19,9 @@ In data science, we are dealing with a lot of data. The data is processed, model
 ## Mean Absolute Error (MAE)
 - This metric calculate the average absolute residual between actual data ($$ y_i $$) and predicted data ($$ \hat y_i $$).
 - The best MAE is close to zero. It means that the actual and predicted data are close to each other.
-- This metric can be calculated by using $$ MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| $$
+- This metric can be calculated by using
+
+  $$ MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| $$
 
 ## Mean Absolute Percentage Error (MAPE)
 - This metric takes the basic of MAE's formula. It is enchanced to the precentage error calculation respect to the actual data ($$ y_i $$).
