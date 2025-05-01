@@ -1,7 +1,7 @@
 ﻿---
 tags: Programming
 ---
-In data science, we are dealing with a lot of data. The data is processed, modeled, and analysed based on the proper method. The important key of the analysis is an evaluation of the model. Is the model good enough to be used for predicting or estimating an output given by new input data? We use the statistical methods to evaluate model. Each of the methods has its own characteristic. Here, I share the common methods to asses the quality of model, hereafter I mentioned as the metric evaluation parameters.
+In data science, we are dealing with a lot of data. The data is processed, modeled, and analysed based on the proper method. The important key of the analysis is an evaluation of the model. Is the model good enough to be used for predicting or estimating an output given by new input data? We use the statistical methods to evaluate model. Each of the methods has its own characteristic. Here, I share the common methods to asses the quality of model, hereafter I mentioned as the data evaluation parameters.
 
 ## Mean Square Error (MSE)
 - This metric calculate the average square residual between actual data ($$ y_i $$) and predicted data ($$ \hat y_i $$).
