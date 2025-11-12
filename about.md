@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 I’m a researcher at the Geological Hazards Division, [Tsunami and Disaster Research Center (TDMRC)](https://tdmrc.usk.ac.id/),
 Universitas Syiah Kuala (USK), Banda Aceh. My research focuses are related to Seismic Hazard and Risk Analysis, Microtremor, Ground Motions, Earthquake Physics, Earthquake Statistics, and Computational Seismology. In particular, I try to explore further the connection between the seismic hazard and economic losses, either for the infrastructure or the social aspect, in terms of disaster risk reduction. On the other spectrum, I also study the characteristics of the subsurface soil through the microtremor (HVSR Inversion) either from ambient noises or earthquake ground motion. Through these topics, I try to answer the question, what we should consider to reduce the economic losses and fatalities due to the seismic hazard (e.g., earthquake)?
 
