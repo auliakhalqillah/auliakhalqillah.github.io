@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 tags: Seismic-Hazard
 ---
 ## Setup Geopsy on Windows OS
