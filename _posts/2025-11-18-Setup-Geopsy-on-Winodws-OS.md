@@ -2,7 +2,7 @@
 ---
 tags: Seismic-Hazard
 ---
-## Setup Geopsy on Windows Operating System
+## Setup Geopsy on Windows OS
 
 [Geopsy](https://www.geopsy.org/) is an open-source tool used for microtremor data processing. This tool provides several analysis methods, one of them is Horizontal to Vertial Spectral Ratio (HVSR). If you are new user of Geopsy, you need to setup the Geopsy on your personal computer or laptop. In this article, I will explain on how to setup the Geopsy on Windows Operating System.
 
